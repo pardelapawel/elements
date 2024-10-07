@@ -10,15 +10,5 @@
 	</info>
 	<files>
 				<file name="20210126.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210126.xml" /> <!--Gothic Lineages-->
-		<file name="20210311.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210311.xml" /> <!--Folk of the Feywild-->
-		<file name="20210414.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210414.xml" /> <!--Draconic Options-->
-		<file name="20210608.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210608.xml" /> <!--Mages of Strixhaven-->
-		<file name="20211008.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20211008.xml" /> <!--Travelers of the Multiverse-->
-
-		<!-- 2022 -->
-		<file name="20220308.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220308.xml" /> <!--Heroes of Krynn-->
-		<file name="20220425.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220425.xml" /> <!--Heroes of Krynn Revisited-->
-		<file name="20220523.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220523.xml" /> <!-- Giant Options -->
-		<file name="20220718.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220718.xml" /> <!-- Wonders of the Multiverse -->
 	</files>
 </index>
