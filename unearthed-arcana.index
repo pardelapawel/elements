@@ -9,107 +9,16 @@
 		</update>
 	</info>
 	<files>
-		<file name="planeshift.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/planeshift.index" />
+				<file name="20210126.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210126.xml" /> <!--Gothic Lineages-->
+		<file name="20210311.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210311.xml" /> <!--Folk of the Feywild-->
+		<file name="20210414.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210414.xml" /> <!--Draconic Options-->
+		<file name="20210608.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210608.xml" /> <!--Mages of Strixhaven-->
+		<file name="20211008.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20211008.xml" /> <!--Travelers of the Multiverse-->
 
-		<file name="20150202.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2015/20150202.xml" /> 
-		
-		
-		<file name="20150504.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2015/20150504.xml" /> 
-		
-		
-		<file name="20150803.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2015/20150803.xml" /> 
-		
-		
-		<file name="20151102.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2015/20151102.xml" /> 
-		<file name="20151207.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2015/20151207.xml" /> 
-
-		
-		<file name="20160104.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20160104.xml" /> 
-		
-		<file name="20160404.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20160404.xml" /> 
-		<file name="20160606.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20160606.xml" /> 
-		
-		<file name="20160801.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20160801.xml" /> 
-		
-		
-		
-		
-		<file name="20161121.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20161121.xml" /> 
-		<file name="20161128.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20161128.xml" /> 
-		<file name="20161205.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20161205.xml" /> 
-		<file name="20161212.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20161212.xml" /> 
-		<file name="20161219.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2016/20161219.xml" /> 
-
-		
-		<file name="20170109.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170109.xml" /> 
-		<file name="20170116.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170116.xml" /> 
-		<file name="20170206.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170206.xml" /> 
-		<file name="20170213.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170213.xml" /> 
-		
-		
-		<file name="20170313.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170313.xml" /> 
-		<file name="20170320.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170320.xml" /> 
-		
-		<file name="20170403.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170403.xml" /> 
-		
-		<file name="20170417.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170417.xml" /> 
-		<file name="20170424.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170424.xml" /> 
-		
-		
-		
-		<file name="20170605.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20170605.xml" /> 
-		
-		
-		
-		<file name="20171009.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20171009.xml" /> 
-		<file name="20171113.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2017/20171113.xml" /> 
-
-		
-		<file name="20180108.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180108.xml" /> 
-		<file name="20180212.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180212.xml" /> 
-		<file name="20180409.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180409.xml" /> 
-		<file name="20180514.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180514.xml" /> 
-		<file name="20180611.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180611.xml" /> 
-		<file name="20180723.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180723.xml" /> 
-		<file name="20180813.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180813.xml" /> 
-		<file name="20180910.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20180910.xml" /> 
-		<file name="20181008.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20181008.xml" /> 
-		<file name="20181112.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20181112.xml" /> 
-		<file name="20181217.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2018/20181217.xml" /> 
-
-		
-		<file name="20190228.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20190228.xml" /> 
-		<file name="20190514.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20190514.xml" /> 
-		<file name="20190815.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20190815.xml" /> 
-		<file name="20190905.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20190905.xml" /> 
-		<file name="20190918.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20190918.xml" /> 
-		<file name="20191003.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20191003.xml" /> 
-		<file name="20191017.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20191017.xml" /> 
-		<file name="20191104.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20191104.xml" /> 
-		<file name="20191125.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2019/20191125.xml" /> 
-				
-		
-		<file name="20200114.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200114.xml" /> 
-		<file name="20200206.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200206.xml" /> 
-		<file name="20200224.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200224.xml" /> 
-		<file name="20200326.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200326.xml" /> 
-		<file name="20200414.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200414.xml" /> 
-		<file name="20200512.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200512.xml" /> 
-		<file name="20200713.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200713.xml" /> 
-		<file name="20200805.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20200805.xml" /> 
-		<file name="20201026.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2020/20201026.xml" /> 
-
-		
-		<file name="20210126.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210126.xml" /> 
-		<file name="20210311.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210311.xml" /> 
-		<file name="20210414.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210414.xml" /> 
-		<file name="20210608.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210608.xml" /> 
-		<file name="20211008.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20211008.xml" /> 
-
-		
-		<file name="20220308.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220308.xml" /> 
-		<file name="20220425.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220425.xml" /> 
-		<file name="20220523.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220523.xml" /> 
-		<file name="20220718.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220718.xml" /> 
+		<!-- 2022 -->
+		<file name="20220308.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220308.xml" /> <!--Heroes of Krynn-->
+		<file name="20220425.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220425.xml" /> <!--Heroes of Krynn Revisited-->
+		<file name="20220523.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220523.xml" /> <!-- Giant Options -->
+		<file name="20220718.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2022/20220718.xml" /> <!-- Wonders of the Multiverse -->
 	</files>
 </index>
