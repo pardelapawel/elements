@@ -3,7 +3,7 @@
 	<info>
 		<name>My index - hexblood</name>
 		<update version="0.0.1">
-			<file name="myindex.index" url="https://raw.githubusercontent.com/pardelapawel/elements/master/supplements/myindex.index" />
+			<file name="myindex.index" url="https://raw.githubusercontent.com/pardelapawel/elements/master/supplements/hexblood.index" />
 		</update>
 	</info>
 	<files>
