@@ -5,7 +5,7 @@
 		<description>The content from the core rulebooks.</description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.2.6">
-			<file name="core.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index" />
+			<file name="core.index" url="https://raw.githubusercontent.com/pardelapawel/elements/master/core.index" />
 		</update>
 	</info>
 	<files>
