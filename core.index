@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="internal.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/internal.xml" />
+		<file name="internal.xml" url="https://raw.githubusercontent.com/pardelapawel/elements/master/core/internal.xml" />
 
 		<file name="dungeon-masters-guide.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/dungeon-masters-guide.index" />
 		<file name="monster-manual.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/monster-manual.index" />
