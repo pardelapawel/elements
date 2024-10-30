@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Hexblood</name>
+		<name>Hexblood2</name>
 		<update version="0.0.3">
 			<file name="race-hexblood.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/van-richtens-guide-to-ravenloft/race-hexblood.xml" />
 		</update>
 	</info>
 
-	<element name="Hexblood" type="Race" source="Van Richten's Guide To Ravenloft" id="ID_WOTC_VRGTR_RACE_HEXBLOOD">
+	<element name="Hexblood2" type="Race" source="Van Richten's Guide To Ravenloft" id="ID_WOTC_VRGTR_RACE_HEXBLOOD">
 		<description>
 			<p>Where wishing fails, ancient magic can offer a heart’s desire—at least, for a time. Hexbloods are individuals infused with eldritch magic, fey energy, or mysterious witchcraft. Some who enter into bargains with hags gain their deepest wishes but eventually find themselves transformed. These changes evidence a hag’s influence: ears that split in forked points, skin in lurid shades, long hair that regrows if cut, and an irremovable living crown. Along with these marks, hexbloods manifest hag-like traits, such as darkvision and a variety of magical methods to beguile the senses and avoid the same.</p>
 			<p class="indent">While many hexbloods gain their lineage after making a deal with a hag, others reveal their nature as they age—particularly if a hag influenced them early in life or even before their birth. Many hexbloods turn to lives of adventure, seeking to discover the mysteries of their magic, to forge a connection with their fey natures, or to avoid a hag that obsesses over them.</p>
@@ -53,7 +53,6 @@
 			<select type="Language" name="Customized Language (Hexblood)" supports="Custom Race Language" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
 			<select type="Language" name="Language (Hexblood)" supports="Standard||Exotic" />
 			<grant type="Racial Trait" id="ID_INTERNAL_RACIAL_TRAIT_TYPE_FEY" />
-			<select type="Racial Trait" name="Size (Hexblood)" supports="ID_INTERNAL_RACIAL_TRAIT_SMALL|ID_INTERNAL_RACIAL_TRAIT_MEDIUM" />
 			<stat name="innate speed" value="30" bonus="base" />
 			<grant type="Racial Trait" id="ID_WOTC_VRGTR_RACIAL_TRAIT_HEXBLOOD_ANCESTRAL_LEGACY" />
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
