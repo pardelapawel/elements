@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>My index - hexblood</name>
+		<update version="0.0.1">
+			<file name="myindex.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/myindex.index" />
+		</update>
+	</info>
+	<files>
+		<file name="race-hexblood.xml" url="https://raw.githubusercontent.com/pardelapawel/elements/refs/heads/master/supplements/van-richtens-guide-to-ravenloft/race-hexblood.xml" />
+	</files>
+</index>
